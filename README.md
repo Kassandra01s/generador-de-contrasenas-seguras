@@ -74,6 +74,17 @@ Este proyecto utiliza las siguientes librerías:
 Todos los diagramas que explican el funcionamiento del código están en la carpeta `/diagramas`.
 
 ---
+#### Resultados
+
+Los resultados del proyecto demuestran que es posible generar contraseñas seguras, con distintos niveles de personalización y control por parte del usuario. La extrapolación lógica evidencia que, al permitir elegir los caracteres y longitud, el programa mejora significativamente la seguridad frente a generadores básicos. Además, la evaluación de la contraseña sugiere un criterio práctico de robustez, útil para la concientización del usuario sobre ciberseguridad.
+
+---
+
+##  Implicaciones y limitaciones
+
+*Implicaciones*: El generador puede ser útil como herramienta educativa, demostrando buenas prácticas de seguridad informática. Su implementación modular permite futuras mejoras como validaciones más complejas o integración con gestores de contraseñas.
+
+*Limitaciones*: Actualmente, el programa depende de la interacción en consola y no guarda contraseñas generadas. No incluye cifrado ni verificación contra contraseñas filtradas. Tampoco considera aspectos como accesibilidad visual o usabilidad en dispositivos móviles.
 
 ##  Autor
 
