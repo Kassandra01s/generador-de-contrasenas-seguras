@@ -71,7 +71,7 @@ Este proyecto utiliza las siguientes librerías:
 
 ##  Diagramas de flujo
 
-Todos los diagramas que explican el funcionamiento del código están en la carpeta `/diagramas`.
+Todos los diagramas que explican el funcionamiento del código están enumerados y con nombre `/diagrama 1-Menú principal` y así en ese orden hasta el diagrama 5.
 
 ---
 #### Resultados
